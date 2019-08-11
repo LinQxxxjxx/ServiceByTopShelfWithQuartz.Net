@@ -1,0 +1,292 @@
+2019-08-11 20:43:49,039 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:43:49,086 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:43:49,101 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:43:49,101 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:43:49,101 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:43:49,101 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:43:50,008 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:43:50,008 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:43:50,008 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:43:55,026 [7] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:43:55,026 [7] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:43:55,028 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:44:00,018 [11] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:44:00,018 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:44:00,018 [11] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:44:05,028 [12] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:44:05,028 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:44:05,058 [12] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:44:10,004 [7] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:44:10,004 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:44:10,004 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:44:15,012 [12] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:44:15,012 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:44:15,012 [12] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:44:20,029 [7] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:44:20,031 [7] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:44:20,031 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:44:25,020 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:44:25,020 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:44:25,051 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:44:30,017 [9] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:44:30,017 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:44:30,017 [9] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:44:35,012 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:44:35,014 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:44:35,014 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:44:40,007 [10] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:44:40,007 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:44:40,007 [7] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:44:45,004 [12] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:44:45,004 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:44:45,004 [12] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:44:50,008 [7] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:44:50,008 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:44:50,008 [7] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:44:55,003 [10] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:44:55,003 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:44:55,018 [10] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:45:00,014 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:45:00,014 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:45:00,014 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:45:05,012 [11] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:45:05,012 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:45:05,012 [11] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:45:10,011 [10] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:45:10,011 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:45:10,011 [10] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:45:15,004 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:45:15,004 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:45:15,004 [11] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:45:20,001 [10] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:45:20,001 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:45:20,001 [12] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:45:25,002 [9] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:45:25,002 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:45:25,002 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:45:30,009 [12] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:45:30,009 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:45:30,009 [12] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:45:35,003 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:45:35,003 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:45:35,010 [9] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:45:40,004 [12] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:45:40,004 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:45:40,004 [10] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:45:45,010 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:45:45,010 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:45:45,010 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:45:50,002 [10] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:45:50,002 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:45:50,002 [12] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:45:55,006 [9] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:45:55,006 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:45:55,006 [10] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:46:00,006 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:46:00,006 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:46:00,006 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:46:05,011 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:46:05,011 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:46:05,011 [10] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:46:10,008 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:46:10,008 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:46:10,008 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:46:15,011 [9] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:46:15,011 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:46:15,011 [9] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:46:20,014 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:46:20,014 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:46:20,014 [12] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:46:25,004 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:46:25,004 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:46:25,004 [11] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:46:30,008 [9] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:46:30,008 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:46:30,008 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:46:35,002 [12] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:46:35,002 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:46:35,002 [12] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:46:40,018 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:46:40,018 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:46:40,018 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:46:45,087 [12] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:46:45,087 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:46:45,087 [12] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:46:50,029 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:46:50,030 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:46:50,030 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:46:55,012 [10] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:46:55,014 [10] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:46:55,014 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:47:00,003 [12] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:47:00,003 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:47:00,004 [12] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:47:05,012 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:47:05,012 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:47:05,012 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:47:10,004 [11] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:47:10,005 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:47:10,005 [11] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:47:15,003 [7] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:47:15,004 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:47:15,005 [7] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:47:20,003 [12] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:47:20,003 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:47:20,033 [12] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:47:25,018 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:47:25,018 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:47:25,018 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:47:30,001 [11] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:47:30,001 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:47:30,002 [11] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:47:35,008 [12] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:47:35,008 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:47:35,008 [7] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:47:40,002 [9] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:47:40,003 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:47:40,036 [9] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:47:45,003 [10] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:47:45,004 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:47:45,004 [10] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:47:50,003 [9] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:47:50,003 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:47:50,004 [9] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:47:55,002 [11] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:47:55,002 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:47:55,003 [11] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:48:00,003 [7] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:48:00,003 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:48:00,005 [7] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:48:05,001 [12] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:48:05,001 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:48:05,002 [11] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:48:10,011 [7] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:48:10,013 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:48:10,014 [7] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:48:15,001 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:48:15,001 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:48:15,003 [10] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:48:20,002 [7] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:48:20,002 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:48:20,002 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:48:25,004 [10] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:48:25,004 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:48:25,004 [12] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:48:30,001 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:48:30,001 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:48:30,004 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:48:35,001 [11] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:48:35,001 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:48:35,002 [9] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:48:40,001 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:48:40,001 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:48:40,002 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:48:45,010 [7] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:48:45,010 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:48:45,034 [7] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:48:50,002 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:48:50,002 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:48:50,003 [10] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:48:55,001 [7] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:48:55,001 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:48:55,002 [7] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:49:00,003 [11] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:49:00,004 [11] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:49:00,005 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:49:05,005 [9] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:49:05,005 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:49:05,007 [9] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:49:10,002 [10] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:49:10,002 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:49:10,003 [12] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:49:15,009 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:49:15,011 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:49:15,011 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:49:20,001 [9] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:49:20,001 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:49:20,002 [10] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:49:25,001 [7] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:49:25,001 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:49:25,002 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:49:30,008 [10] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:49:30,008 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:49:30,008 [7] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:49:35,012 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:49:35,012 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:49:35,012 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:49:40,007 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:49:40,007 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:49:40,007 [11] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:49:45,011 [12] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:49:45,011 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:49:45,033 [12] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:49:50,001 [7] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:49:50,001 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:49:50,001 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:49:55,005 [9] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:49:55,005 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:49:55,005 [11] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:50:00,007 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:50:00,007 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:50:00,007 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:50:05,002 [7] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:50:05,002 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:50:05,003 [7] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:50:10,001 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:50:10,002 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:50:10,002 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:50:15,001 [11] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:50:15,002 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:50:15,003 [11] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:50:20,010 [9] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:50:20,010 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:50:20,010 [7] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:50:25,009 [11] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:50:25,009 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:50:25,016 [11] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:50:30,003 [12] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:50:30,003 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:50:30,050 [10] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:50:35,001 [7] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:50:35,001 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:50:35,002 [9] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:50:40,005 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:50:40,005 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:50:40,005 [7] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:50:45,009 [11] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:50:45,009 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:50:45,009 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:50:50,001 [10] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:50:50,003 [10] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:50:50,004 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:50:55,002 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:50:55,002 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:50:55,002 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:51:00,001 [10] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:51:00,001 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:51:00,001 [10] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:51:05,006 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:51:05,006 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:51:05,006 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:51:10,001 [10] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:51:10,001 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:51:10,002 [12] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:51:15,002 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:51:15,002 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:51:15,003 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:51:20,001 [5] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:51:20,001 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:51:20,002 [7] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:51:25,001 [4] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:51:25,001 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:51:25,001 [4] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:51:30,015 [11] DEBUG Quartz.Core.JobRunShell - Calling Execute on job JobGroup.JobName
+2019-08-11 20:51:30,015 [3] DEBUG Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+2019-08-11 20:51:30,015 [5] DEBUG Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+2019-08-11 20:51:34,619 [7] INFO  Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Stopping
+2019-08-11 20:51:34,697 [7] INFO  Quartz.Core.QuartzScheduler - Scheduler QuartzScheduler_$_NON_CLUSTERED shutting down.
+2019-08-11 20:51:34,697 [7] INFO  Quartz.Core.QuartzScheduler - Scheduler QuartzScheduler_$_NON_CLUSTERED paused.
+2019-08-11 20:51:34,697 [7] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - Shutting down threadpool...
+2019-08-11 20:51:34,697 [7] DEBUG Quartz.Simpl.TaskSchedulingThreadPool - Shutdown of threadpool complete.
+2019-08-11 20:51:34,697 [7] INFO  Quartz.Core.QuartzScheduler - Scheduler QuartzScheduler_$_NON_CLUSTERED Shutdown complete.
+2019-08-11 20:51:34,697 [7] INFO  Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Stopped
